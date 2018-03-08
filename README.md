@@ -16,6 +16,7 @@ distributions.</p>
 ## Install
 
     sudo snap install my-snap-name
+    pip install liota
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
